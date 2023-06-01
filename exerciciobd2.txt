@@ -1,0 +1,32 @@
+
+1.	O que é um Sistema Gerenciador de Banco de Dados?
+
+ é o conjunto de programas de computador (softwares) responsáveis pelo gerenciamento de bases de dados. O principal objetivo é retirar da aplicação cliente a responsabilidade de gerenciar o acesso, manipulação e organização dos dados.
+
+
+2.	O que é um Banco de dados relacional?
+
+
+é um banco de dados que modela os dados de uma forma que eles sejam percebidos pelo usuário como tabelas, ou mais formalmente relações.
+
+
+4.	O que é PL/SQL?
+
+a linguagem SQL permite que a manipulação de dados seja incluída em unidades de programas.
+
+
+
+5.	T-SQL e PL/SQL são iguais? Caso não sejam, cite 3 diferenças entre elas.
+
+QL é uma linguagem de programação de paradigma declarativo. PLSQL é uma linguagem de paradigma procedimental implementada para o banco de dados ORACLE.
+
+A principal diferença entre o T-SQL e o PL-SQL é a maneira como eles lidam com variáveis, procedimentos armazenados e funções integradas.
+
+6.	O Que é:
+
+
+A.	DML:DML é uma sigla para Linguagem de Manipulação de Dados. São comandos usados para adicionar, atualizar, recuperar ou excluir dados em um banco de dados relacional. Os comandos mais comuns são INSERT (adicionar), UPDATE (atualizar), DELETE (excluir) e SELECT (recuperar). Esses comandos permitem interagir com o banco de dados de forma eficiente.
+
+B.	DDL:
+C.	DCL:
+
